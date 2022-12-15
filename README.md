@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaadoshi66&layout=compact&hide_border=true&title_color=0744E0&text_color=0744E0&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=kaadoshi66&theme=tokyo-night&hide_border=true&area=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=kaadoshi66&theme=tokyo-night)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaadoshi66&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
