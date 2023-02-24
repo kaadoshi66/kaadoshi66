@@ -46,7 +46,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Count</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaadoshi66}/count.svg" /></p> 
 <br></div>
 
