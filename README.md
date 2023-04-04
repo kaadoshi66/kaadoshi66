@@ -2,11 +2,9 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0744E0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Souza;I'm+23+years+old;I+from+Santana,+AP+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaadoshi66&show_icons=true&include_all_commits=flase&count_private=true&theme=buefy&hide_border=true&title_color=0744E0&icon_color=0744E0&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaadoshi66&layout=compact&theme=buefy&hide_border=true&title_color=0744E0&icon_color=0744E0&text_color=c9d1d9&bg_color=0d1117" />
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaadoshi66&show_icons=true&count_private=true&hide_border=true&title_color=0744E0&icon_color=0744E0&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaadoshi66&layout=compact&hide_border=true&title_color=0744E0&icon_color=0744E0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=kaadoshi66&theme=tokyo-night)
