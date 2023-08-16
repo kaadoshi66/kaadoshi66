@@ -2,20 +2,11 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0744E0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Souza;I'm+23+years+old;I+from+Santana,+AP+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaadoshi66&show_icons=true&count_private=true&hide_border=true&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaadoshi66&layout=compact&hide_border=true&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaadoshi66&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaadoshi66&hide=Html&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaadoshi66&theme=algolia) |
+| :-: | :-: | :-: |
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=kaadoshi66&theme=tokyo-night)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaadoshi66&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-
-</div> 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaadoshi66&theme=algolia) | ![](https://github-readme-streak-stats.herokuapp.com/?user=kaadoshi66&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000431&stroke=1e90ff&ring=1e90ff&fire=1e90ff&currStreakNum=ff0000&sideNums=1e90ff&currStreakLabel=1e90ff&sideLabels=fff&dates=fff) |
+| :-: | :-: | 
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
